@@ -1,0 +1,17 @@
+{
+  "github-id":"3054411",
+  "pl": [
+  	  "JavaScript"
+	  "C",
+	  "Bash",
+	],
+  "os": [
+  	  "Ubuntu",
+	  "Elementary OS",
+	  "Windows"
+	],
+  "ed": [
+	  "Sublime Text",
+	  "gedit"
+	]
+}
