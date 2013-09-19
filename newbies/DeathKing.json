@@ -1,0 +1,22 @@
+{
+  "github-id":"895809",
+  "pl": [
+	  "ruby",
+	  "c",
+	  "scheme",
+	  "shell",
+	  "hisp"
+	],
+  "os": [
+	  "Elementary OS",
+	  "Windows",
+	  "OS X",
+	  "Ubuntu",
+	  "μ/Cos-II"
+	],
+  "ed": [
+	  "vim",
+	  "sublime",
+	  "gedit"
+	]
+}
