@@ -1,0 +1,17 @@
+{
+	"github-id":"4608342",
+	"pl": [
+		"c",
+		"objective-c"
+	],
+	"os": [
+		"OS X",
+		"Windows",
+		"Ubuntu"
+	],
+	"ed": [
+		"gedit",
+		"xcode",
+		"vim"
+	]
+}
