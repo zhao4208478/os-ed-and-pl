@@ -1,0 +1,17 @@
+{
+  "github-id": "2025499",
+  "pl" = [
+           "OCaml",
+           "Perl",
+           "C",
+           "Lisp",
+           "C++"
+         ],
+  "os" = [
+	   "Ubuntu",
+	   "Gentoo"
+         ],
+  "ed" = [
+	   "Emacs"
+         ]
+}
