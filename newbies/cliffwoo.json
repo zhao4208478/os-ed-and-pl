@@ -1,0 +1,17 @@
+{
+  "github-id": "525331",
+  "pl": [
+    "Ruby",
+    "Java",
+    "Shell",
+  ],
+  "os": [
+    "OS X",
+    "Ubuntu",
+    "Windows"
+  ],
+  "ed": [
+    "Sublime Text",
+    "vim"
+  ]
+}
