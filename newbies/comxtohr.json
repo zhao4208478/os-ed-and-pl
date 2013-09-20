@@ -1,0 +1,19 @@
+{
+  "github-id":"2512359",
+  "pl": [
+	  "python",
+	  "c",
+	  "java",
+	  "shell"
+	],
+  "os": [
+	  "OS X",
+	  "CentOS",
+	  "Solaris",
+	  "Android"
+	],
+  "ed": [
+	  "vim",
+	  "sublime"
+	]
+}
