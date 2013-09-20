@@ -1,9 +1,9 @@
 {
   "github-id": "2025499",
   "pl" = [
-	   "OCaml",
+           "OCaml",
            "Perl",
-	   "C",
+           "C",
            "Lisp",
            "C++"
          ],
