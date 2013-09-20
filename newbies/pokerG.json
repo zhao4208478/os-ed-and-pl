@@ -1,0 +1,20 @@
+{
+  "github-id":"4958586",
+  "pl": [
+	  "C",
+	  "Go",
+	  "javascript"
+	  "shell"
+	  "common lisp"
+	],
+  "os": [
+	  "Windows",
+	  "Ubuntu",
+	  "fedora"
+	],
+  "ed": [
+	  "vim",
+	  "sublime text",
+	  "emacs"
+	]
+}
